@@ -1,0 +1,12 @@
+streamlit>=1.34
+pandas
+numpy
+plotly
+folium
+streamlit-folium
+openpyxl
+xlrd
+python-dateutil
+Pillow
+gspread
+google-auth
